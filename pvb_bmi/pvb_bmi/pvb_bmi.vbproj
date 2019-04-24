@@ -1,0 +1,272 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{DDBFFA07-8D99-4F05-ACD2-33ACBBCDD0B2}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>pvb_bmi.My.MyApplication</StartupObject>
+    <RootNamespace>pvb_bmi</RootNamespace>
+    <AssemblyName>pvb_bmi</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>pvb_bmi.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>pvb_bmi.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MySql.Data, Version=6.9.8.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files (x86)\MySQL\Connector.NET 6.9\Assemblies\v4.5\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Aide.Designer.vb">
+      <DependentUpon>Aide.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Aide.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Applications.Designer.vb">
+      <DependentUpon>Applications.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Applications.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Apropos.Designer.vb">
+      <DependentUpon>Apropos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Apropos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Chargement.Designer.vb">
+      <DependentUpon>Chargement.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Chargement.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Disciplines.Designer.vb">
+      <DependentUpon>Disciplines.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Disciplines.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DMI.Designer.vb">
+      <DependentUpon>DMI.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DMI.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Documents.Designer.vb">
+      <DependentUpon>Documents.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Documents.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Email.Designer.vb">
+      <DependentUpon>Email.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Email.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Localisation.Designer.vb">
+      <DependentUpon>Localisation.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Localisation.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Prets.Designer.vb">
+      <DependentUpon>Prets.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Prets.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Serveur.Designer.vb">
+      <DependentUpon>Serveur.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Serveur.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UASZ.Designer.vb">
+      <DependentUpon>UASZ.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UASZ.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Usimples.Designer.vb">
+      <DependentUpon>Usimples.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Usimples.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Usuper.Designer.vb">
+      <DependentUpon>Usuper.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Usuper.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Visualiser.Designer.vb">
+      <DependentUpon>Visualiser.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Visualiser.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Applications.resx">
+      <DependentUpon>Applications.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Apropos.resx">
+      <DependentUpon>Apropos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Chargement.resx">
+      <DependentUpon>Chargement.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Disciplines.resx">
+      <DependentUpon>Disciplines.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DMI.resx">
+      <DependentUpon>DMI.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Documents.resx">
+      <DependentUpon>Documents.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Email.resx">
+      <DependentUpon>Email.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Localisation.resx">
+      <DependentUpon>Localisation.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Prets.resx">
+      <DependentUpon>Prets.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Serveur.resx">
+      <DependentUpon>Serveur.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UASZ.resx">
+      <DependentUpon>UASZ.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Usimples.resx">
+      <DependentUpon>Usimples.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Usuper.resx">
+      <DependentUpon>Usuper.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Visualiser.resx">
+      <DependentUpon>Visualiser.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\googlemail3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\googlemail.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

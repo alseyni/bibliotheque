@@ -1,0 +1,807 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+pvb_bmi
+</name>
+</assembly>
+<members>
+<member name="T:pvb_bmi.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:pvb_bmi.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:pvb_bmi.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:pvb_bmi.My.Resources.Resources._1383067518_module_de_reservation_integre_dans_votre">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:pvb_bmi.My.Resources.Resources._19682">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:pvb_bmi.My.Resources.Resources.abort_146072_960_720">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:pvb_bmi.My.Resources.Resources.affichertout">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:pvb_bmi.My.Resources.Resources.ajouter2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:pvb_bmi.My.Resources.Resources.balai">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:pvb_bmi.My.Resources.Resources.bflt_emprunts">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:pvb_bmi.My.Resources.Resources.bouton_deconnexion">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:pvb_bmi.My.Resources.Resources.BT_accueil">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:pvb_bmi.My.Resources.Resources.BT_affichertout">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:pvb_bmi.My.Resources.Resources.BT_ajouter">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:pvb_bmi.My.Resources.Resources.BT_connexion">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:pvb_bmi.My.Resources.Resources.BT_deconnexion">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:pvb_bmi.My.Resources.Resources.BT_email">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:pvb_bmi.My.Resources.Resources.BT_enregistrer">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:pvb_bmi.My.Resources.Resources.BT_inscription">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:pvb_bmi.My.Resources.Resources.BT_modifier">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:pvb_bmi.My.Resources.Resources.BT_pageaccueil">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:pvb_bmi.My.Resources.Resources.BT_parcourir">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:pvb_bmi.My.Resources.Resources.BT_rechercher">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:pvb_bmi.My.Resources.Resources.BT_reserver">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:pvb_bmi.My.Resources.Resources.BT_restituer">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:pvb_bmi.My.Resources.Resources.BT_Supprimer">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:pvb_bmi.My.Resources.Resources.BT_validerinfos">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:pvb_bmi.My.Resources.Resources.BT_verifierconnexion">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:pvb_bmi.My.Resources.Resources.BT_visualiser">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:pvb_bmi.My.Resources.Resources.cadena">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:pvb_bmi.My.Resources.Resources.connexion">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:pvb_bmi.My.Resources.Resources.deconnexion">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:pvb_bmi.My.Resources.Resources.deconnexion1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:pvb_bmi.My.Resources.Resources.deconnexion2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:pvb_bmi.My.Resources.Resources.disciplines2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:pvb_bmi.My.Resources.Resources.disciplines21">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:pvb_bmi.My.Resources.Resources.disciplines3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:pvb_bmi.My.Resources.Resources.doc_complementaires">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:pvb_bmi.My.Resources.Resources.document_security">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:pvb_bmi.My.Resources.Resources.document2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:pvb_bmi.My.Resources.Resources.Documents">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:pvb_bmi.My.Resources.Resources.Documents1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:pvb_bmi.My.Resources.Resources.drawer_with_files_image">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:pvb_bmi.My.Resources.Resources.email_logo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:pvb_bmi.My.Resources.Resources.F_multi_user">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:pvb_bmi.My.Resources.Resources.F_multi_user1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:pvb_bmi.My.Resources.Resources.formation1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:pvb_bmi.My.Resources.Resources.Google">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:pvb_bmi.My.Resources.Resources.googlemail">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:pvb_bmi.My.Resources.Resources.googlemail3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:pvb_bmi.My.Resources.Resources.hi_512_10">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:pvb_bmi.My.Resources.Resources.https_proxy">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:pvb_bmi.My.Resources.Resources.ic_close">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:pvb_bmi.My.Resources.Resources.img_localisation">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:pvb_bmi.My.Resources.Resources.inscription">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:pvb_bmi.My.Resources.Resources.Livre_réservation">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:pvb_bmi.My.Resources.Resources.localisation">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:pvb_bmi.My.Resources.Resources.localisation2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:pvb_bmi.My.Resources.Resources.logo_ufr_couleur">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:pvb_bmi.My.Resources.Resources.magical">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:pvb_bmi.My.Resources.Resources.mi">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:pvb_bmi.My.Resources.Resources.micon_01">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:pvb_bmi.My.Resources.Resources.modifier">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:pvb_bmi.My.Resources.Resources.My_Documents">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:pvb_bmi.My.Resources.Resources.parcourir">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:pvb_bmi.My.Resources.Resources.Picto_user_320x320">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:pvb_bmi.My.Resources.Resources.prets">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:pvb_bmi.My.Resources.Resources.Rechercher">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:pvb_bmi.My.Resources.Resources.sans_titre">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:pvb_bmi.My.Resources.Resources.search_14_256">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:pvb_bmi.My.Resources.Resources.securite">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:pvb_bmi.My.Resources.Resources.serveur">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:pvb_bmi.My.Resources.Resources.serveur_web___infoclip">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:pvb_bmi.My.Resources.Resources.stockage_disque_Fotolia">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:pvb_bmi.My.Resources.Resources.supprimer2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:pvb_bmi.My.Resources.Resources.Tenticles">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:pvb_bmi.My.Resources.Resources.UASZ">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:pvb_bmi.My.Resources.Resources.Un_des_nombreux_rayons_de_la_bibliotheque">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:pvb_bmi.My.Resources.Resources.usimple">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:pvb_bmi.My.Resources.Resources.usuper">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="M:pvb_bmi.Disciplines.ajouterdiscipline">
+ <summary>
+ ' Ajoute des données dans la table discipline
+ </summary>
+</member>
+<member name="M:pvb_bmi.Disciplines.remplirdgv">
+ <summary>
+ ' Remplit le datagridview de l'onglet mise à jour
+ </summary>
+</member>
+<member name="M:pvb_bmi.Disciplines.modifier">
+ <summary>
+ ' Modifie les informations de la table discipline
+ </summary>
+</member>
+<member name="M:pvb_bmi.Disciplines.supprimer">
+ <summary>
+ ' Supprime un enregistrement dans la table discipline
+ </summary>
+</member>
+<member name="M:pvb_bmi.Disciplines.rechercher">
+ <summary>
+ ' Recherche une discipline suivant un ou plusieurs critères
+ </summary>
+</member>
+<member name="M:pvb_bmi.Disciplines.ajouterauteur">
+ <summary>
+ Ajoute les informations dans la table auteur
+ </summary>
+</member>
+<member name="M:pvb_bmi.Disciplines.modifierauteur">
+ <summary>
+ Modifie les informations de la table auteur
+ </summary>
+</member>
+<member name="M:pvb_bmi.Disciplines.supprimerauteur">
+ <summary>
+ Supprime un enregistrement dans la table auteur
+ </summary>
+</member>
+<member name="M:pvb_bmi.Disciplines.rechercherauteur">
+ <summary>
+ Permet de rechercher un auteur
+ </summary>
+</member>
+<member name="M:pvb_bmi.Disciplines.remplirdgvla">
+ <summary>
+ Remplit le datagridview de l'onglet auteur
+ </summary>
+</member>
+<member name="M:pvb_bmi.Disciplines.ajouterediteur">
+ <summary>
+ Ajoute les informations dans la table editeur
+ </summary>
+</member>
+<member name="M:pvb_bmi.Disciplines.modifierediteur">
+ <summary>
+ Modifie les informations de la table editeur
+ </summary>
+</member>
+<member name="M:pvb_bmi.Disciplines.supprimerediteur">
+ <summary>
+ Supprime un enregistrement dans la table editeur
+ </summary>
+</member>
+<member name="M:pvb_bmi.Disciplines.rechercherediteur">
+ <summary>
+ Permet de rechercher un editeur
+ </summary>
+</member>
+<member name="M:pvb_bmi.Disciplines.remplirdgvle">
+ <summary>
+ Remplit le datagridview de l'onglet liste des editeurs
+ </summary>
+</member>
+<member name="M:pvb_bmi.Documents.ajouterdoc">
+ <summary>
+ Permet d'ajouter les informations dans la table document
+ </summary>
+</member>
+<member name="M:pvb_bmi.Documents.modifierdoc">
+ <summary>
+ Modifie les informations de la table document
+ </summary>
+</member>
+<member name="M:pvb_bmi.Documents.supprimerdoc">
+ <summary>
+ Supprime un enregistrement dans la table document
+ </summary>
+</member>
+<member name="M:pvb_bmi.Documents.remplirdgv">
+ <summary>
+ Remplit les datagridview
+ </summary>
+</member>
+<member name="M:pvb_bmi.Documents.rechercherdoc">
+ <summary>
+ Recherche un document
+ </summary>
+</member>
+<member name="M:pvb_bmi.Documents.ajouterauteur">
+ <summary>
+ Ajoute un auteur dans la table auteur 
+ </summary>
+</member>
+<member name="M:pvb_bmi.Documents.modifierauteur">
+ <summary>
+ Modifie les informations de la table auteur
+ </summary>
+</member>
+<member name="M:pvb_bmi.Documents.supprimerauteur">
+ <summary>
+ Supprime un enregistrement dans la table auteur
+ </summary>
+</member>
+<member name="M:pvb_bmi.Documents.rechercherauteur">
+ <summary>
+ Permet de rechercher un auteur
+ </summary>
+</member>
+<member name="M:pvb_bmi.Documents.remplirdgvla">
+ <summary>
+ Remplit le datagridview de l'onglet auteur
+ </summary>
+</member>
+<member name="M:pvb_bmi.Documents.ajouterediteur">
+ <summary>
+ Ajoute les informations dans la table editeur
+ </summary>
+</member>
+<member name="M:pvb_bmi.Documents.modifierediteur">
+ <summary>
+ Modifie les informations de la table editeur
+ </summary>
+</member>
+<member name="M:pvb_bmi.Documents.supprimerediteur">
+ <summary>
+ Supprime un enregistrement dans la table editeur
+ </summary>
+</member>
+<member name="M:pvb_bmi.Documents.rechercherediteur">
+ <summary>
+ Permet de rechercher un editeur
+ </summary>
+</member>
+<member name="M:pvb_bmi.Documents.remplirdgvle">
+ <summary>
+ Remplit le datagridview de l'onglet liste des editeurs
+ </summary>
+</member>
+<member name="M:pvb_bmi.Email.envoyermail">
+ <summary>
+ Permet d'envoyer un email
+ </summary>
+</member>
+<member name="M:pvb_bmi.Email.effacerchamps">
+ <summary>
+ Permet d'effacer les champs envoyer
+ </summary>
+</member>
+<member name="M:pvb_bmi.Form1.verifierconnexion">
+ <summary>
+ ' Permet de tester la connexion avec la base de donnée MySQL
+ </summary>
+</member>
+<member name="M:pvb_bmi.Form1.login">
+ <summary>
+ ' Permet de se connecter à l'application
+ </summary>
+ 
+</member>
+<member name="M:pvb_bmi.Form1.inscrireetudiant">
+ <summary>
+ ' Permet d'inscrire un étudiant dans la base de donnée
+ </summary>
+</member>
+<member name="M:pvb_bmi.Form1.inscrireenseignant">
+ <summary>
+ ' Permet d'inscrire un enseignant dans la base de donnée
+ </summary>
+</member>
+<member name="M:pvb_bmi.Localisation.ajouterrayon">
+ <summary>
+ Ajoute les informations dans la table rayon
+ </summary>
+</member>
+<member name="M:pvb_bmi.Localisation.modifierrayon">
+ <summary>
+ Modifie les informations de la table rayon
+ </summary>
+</member>
+<member name="M:pvb_bmi.Localisation.supprimerrayon">
+ <summary>
+ Supprime les informations de la table rayon
+ </summary>
+</member>
+<member name="M:pvb_bmi.Localisation.remplirdgvray">
+ <summary>
+ Remplit le datagridview de l'onglet rayons
+ </summary>
+</member>
+<member name="M:pvb_bmi.Localisation.ajoutergroupe">
+ <summary>
+ Ajoute les informations dans la table groupe
+ </summary>
+</member>
+<member name="M:pvb_bmi.Localisation.modifiergroupe">
+ <summary>
+ Modifie les informations de la table groupe
+ </summary>
+</member>
+<member name="M:pvb_bmi.Localisation.supprimergroupe">
+ <summary>
+ Supprime les informations de la table groupe
+ </summary>
+</member>
+<member name="M:pvb_bmi.Localisation.remplirdgvgroupe">
+ <summary>
+ Remplit le datagridview de l'onglet groupes
+ </summary>
+</member>
+<member name="M:pvb_bmi.Prets.enregistrerpret">
+ <summary>
+ Permet d'enregistrer un prêt
+ </summary>
+</member>
+<member name="M:pvb_bmi.Prets.remplirdgvpret">
+ <summary>
+ Permet de remplir le datagridview de l'onglet enregistrement
+ </summary>
+</member>
+<member name="M:pvb_bmi.Prets.restituerpret">
+ <summary>
+ Permet de restituer un document
+ </summary>
+</member>
+<member name="M:pvb_bmi.Prets.remplirdgvemail">
+ <summary>
+ Permet de remplir le datagridview de l'onglet email
+ </summary>
+</member>
+<member name="M:pvb_bmi.Prets.remplirmail">
+ <summary>
+ Permet de pré-remplir le formulaire Email
+ </summary>
+</member>
+<member name="M:pvb_bmi.Prets.remplirdgvretard">
+ <summary>
+ Permet de remplir le datagridview de l'onglet retard
+ </summary>
+</member>
+<member name="M:pvb_bmi.Prets.remplirdgvhistorique">
+ <summary>
+ Permet de remplir le datagridview de l'onglet historique
+ </summary>
+</member>
+<member name="M:pvb_bmi.Serveur.verifierconnexion">
+ <summary>
+ Permet de vérifier la connexion avec la base de donée
+ </summary>
+</member>
+<member name="M:pvb_bmi.Serveur.variables">
+ <summary>
+ Permet d'enregistrer les informations de connexion dans les variables globales
+ </summary>
+</member>
+<member name="M:pvb_bmi.Usimples.rechercherdoc">
+ <summary>
+ Recherche un document
+ </summary>
+</member>
+<member name="M:pvb_bmi.Usimples.remplirdgv">
+ <summary>
+ Remplit les datagridview
+ </summary>
+</member>
+<member name="M:pvb_bmi.Usimples.reserver">
+ <summary>
+ Réserve un document
+ </summary>
+</member>
+<member name="M:pvb_bmi.Usimples.remplirdgvlemp">
+ <summary>
+ Remplit le datagridview de l'onglet liste des emprunts
+ </summary>
+</member>
+<member name="M:pvb_bmi.Usimples.afficherinfosetudiant">
+ <summary>
+ Affiche les informations personnelles de l'étudiant
+ </summary>
+</member>
+<member name="M:pvb_bmi.Usimples.afficherinfosenseignant">
+ <summary>
+ Affiche les informations personnelles de l'enseignant
+ </summary>
+</member>
+<member name="M:pvb_bmi.Usimples.modifieretud">
+ <summary>
+ Permet de mettre à jour un etudiant
+ </summary>
+</member>
+<member name="M:pvb_bmi.Usimples.modifierens">
+ <summary>
+ Permet de mettre à jour un enseignant
+ </summary>
+</member>
+<member name="M:pvb_bmi.Usimples.annuler">
+ <summary>
+ Permet d'annuler une reservation
+ </summary>
+</member>
+<member name="M:pvb_bmi.Usimples.remplirdgvannuler">
+ <summary>
+ Permet de remplir le datagridview de l'onglet annuler
+ </summary>
+</member>
+<member name="M:pvb_bmi.Usuper.activer_desactiver">
+ <summary>
+ Permet d'aciver ou de desactiver un utilisateur
+ </summary>
+</member>
+<member name="M:pvb_bmi.Usuper.remplirdgvad">
+ <summary>
+ Remplit le datagridview de l'onglet Activer / Désactiver
+ </summary>
+</member>
+<member name="M:pvb_bmi.Usuper.ajouterdroit">
+ <summary>
+ Permet d'aciver ou de desactiver un utilisateur
+ </summary>
+</member>
+<member name="M:pvb_bmi.Usuper.remplirdgvajtd">
+ <summary>
+ Remplit le datagridview de l'onglet ajouter droit
+ </summary>
+</member>
+<member name="M:pvb_bmi.Usuper.afficherinfosetudiant">
+ <summary>
+ Affiche les informations personnelles de l'étudiant
+ </summary>
+</member>
+<member name="M:pvb_bmi.Usuper.afficherinfosenseignant">
+ <summary>
+ Affiche les informations personnelles de l'enseignant
+ </summary>
+</member>
+<member name="M:pvb_bmi.Usuper.rechercheretudiant">
+ <summary>
+ Permet de rechercher un etudiant
+ </summary>
+</member>
+<member name="M:pvb_bmi.Usuper.rechercherenseignant">
+ <summary>
+ Permet de rechercher un enseignant
+ </summary>
+</member>
+<member name="M:pvb_bmi.Usuper.visualiseretudiant">
+ <summary>
+ Permet de visualiser un etudiant
+ </summary>
+</member>
+<member name="M:pvb_bmi.Usuper.visualiserenseignant">
+ <summary>
+ Permet de visualiser un enseignant
+ </summary>
+</member>
+<member name="M:pvb_bmi.Usuper.remplirdgvetudiants">
+ <summary>
+ Permet de remplir le datagridview de l'onglet etudiants
+ </summary>
+</member>
+<member name="M:pvb_bmi.Usuper.remplirdgdvenseignants">
+ <summary>
+ Permet de remplir le datagridview de l'onglet enseignants
+ </summary>
+</member>
+<member name="M:pvb_bmi.Usuper.remplirdgvll">
+ <summary>
+ Remplit le datagridview de l'onglet liste des livres
+ </summary>
+</member>
+<member name="M:pvb_bmi.Usuper.affichercritere">
+ <summary>
+ Affiche les livres selon des critères
+ </summary>
+</member>
+<member name="M:pvb_bmi.Usuper.modifieretud">
+ <summary>
+ Permet de mettre à jour un etudiant
+ </summary>
+</member>
+<member name="M:pvb_bmi.Usuper.modifierens">
+ <summary>
+ Permet de mettre à jour un enseignant
+ </summary>
+</member>
+</members>
+</doc>
